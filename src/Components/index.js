@@ -46,7 +46,6 @@ Button5,
 // MediaPlayer,
 VideoPlayer,
 Play,
-// NavBar,
 UserPageDesigns,
 
 
