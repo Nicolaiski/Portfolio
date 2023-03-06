@@ -42,10 +42,8 @@ const HomePage = () => {
     <div className="container">
         {/* <h1>Home </h1> */}
         
-        
-        
         <p>
-          <Link to="/UserPage"></Link>
+          <Link to="/MidiController"></Link>
         </p>
         <p>
           <Link to="/Music"></Link>
@@ -53,6 +51,16 @@ const HomePage = () => {
         <p>
           <Link to="/UserPageDesigns"></Link>
         </p>
+        
+        {/* <p>
+          <Link to="/Portfolio/UserPage"></Link>
+        </p>
+        <p>
+          <Link to="/Portfolio/music"></Link>
+        </p>
+        <p>
+          <Link to="/Portfolio/UserPageDesigns"></Link>
+        </p> */}
         
       
       
