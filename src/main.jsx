@@ -15,11 +15,11 @@ root.render(
   <React.StrictMode>
     <HashRouter>
     {/* <BrowserRouter> */}
-    <Routes>
-      {/* <App /> */}
-      <Route path="*" element={<App/>} /> 
+    {/* <Routes> */}
+      <App />
+      {/* <Route path="*" element={<App/>} />  */}
     {/* </BrowserRouter> */}
-    </Routes> 
+    {/* </Routes>  */}
     </HashRouter>
   </React.StrictMode>
   

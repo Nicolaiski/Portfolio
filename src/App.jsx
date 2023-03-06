@@ -21,7 +21,7 @@ const App = () => {
         <Route path="/Portfolio/MidiController" element={<UserPage />} />
         <Route path="/Portfolio/music" element={<Music />} />
         <Route path="/Portfolio/UserPageDesigns" element={<UserPageDesigns />} />  
-        <Route path="/Portfolio/" element={<HomePage />} />
+        <Route path="*" element={<HomePage />} />
       </Routes> 
 
   </div>
