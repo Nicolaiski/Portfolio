@@ -24,15 +24,15 @@ root.render(
   <React.StrictMode>
     <HashRouter>
     {/* <BrowserRouter> */}
-      <Routes>
-        {/* <Route path="*" element={<App/>} /> */}
+      {/* <Routes>
+         <Route path="*" element={<App/>} /> 
         <Route path="/" element={<App/>} /> 
-        {/* <Route path="/" element={<HomePage />} /> */}
-        {/* <Route path="/UserPage" element={<UserPage />} />
+         <Route path="/" element={<HomePage />} /> 
+         <Route path="/UserPage" element={<UserPage />} />
         <Route path="/Music" element={<Music />} />
-        <Route path="/UserPageDesigns" element={<UserPageDesigns />} /> */}
-      </Routes>
-      
+        <Route path="/UserPageDesigns" element={<UserPageDesigns />} /> 
+      </Routes> */}
+       <App />
     </HashRouter>
     {/* </BrowserRouter> */}
   </React.StrictMode>
