@@ -1,0 +1,173 @@
+{
+  "asset": {
+    "generator": "Khronos glTF Blender I/O v1.8.19",
+    "version": "2.0"
+  },
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0,
+        1
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "Text"
+    },
+    {
+      "mesh": 1,
+      "name": "Text.001",
+      "translation": [
+        -1.056082010269165,
+        0,
+        0
+      ]
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Material.001",
+      "pbrMetallicRoughness": {}
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Text",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 0,
+            "NORMAL": 1,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3
+        }
+      ]
+    },
+    {
+      "name": "Text.001",
+      "primitives": [
+        {
+          "attributes": {
+            "POSITION": 4,
+            "NORMAL": 5
+          },
+          "indices": 6,
+          "material": 0
+        }
+      ]
+    }
+  ],
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 237,
+      "max": [
+        1.915000081062317,
+        0,
+        0.009000000543892384
+      ],
+      "min": [
+        0.017000000923871994,
+        0,
+        -0.6820000410079956
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 237,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 237,
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5123,
+      "count": 513,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 551480,
+      "max": [
+        7.042695999145508,
+        4.930295467376709,
+        -3.5298495292663574
+      ],
+      "min": [
+        -5.849271774291992,
+        -5.125537872314453,
+        -11.148214340209961
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 551480,
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5125,
+      "count": 827220,
+      "type": "SCALAR"
+    }
+  ],
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 2844,
+      "byteOffset": 0
+    },
+    {
+      "buffer": 0,
+      "byteLength": 2844,
+      "byteOffset": 2844
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1896,
+      "byteOffset": 5688
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1028,
+      "byteOffset": 7584
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6617760,
+      "byteOffset": 8612
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6617760,
+      "byteOffset": 6626372
+    },
+    {
+      "buffer": 0,
+      "byteLength": 3308880,
+      "byteOffset": 13244132
+    }
+  ],
+  "buffers": [
+    {
+      "uri": " TrashRadioFinal_data.bin",
+      "byteLength": 16553012
+    }
+  ]
+}
