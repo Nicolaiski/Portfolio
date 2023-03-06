@@ -1,6 +1,6 @@
 import React from "react";
 import { Routes, Route, Link } from "react-router-dom";
-import HomePage from "./pages/HomePage";
+import HomePage from "./Pages/HomePage";
 import UserPage from "./Pages/UserPage";
 import Music from "./Pages/Music";
 import UserPageDesigns from "./Pages/UserPageDesigns";
