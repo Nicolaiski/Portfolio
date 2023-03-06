@@ -37,20 +37,20 @@ const HomePage = () => {
     </div>  
       
     <Routes>
-        <Route path="/Portfolio/MidiController" element={<UserPage />} />
-        <Route path="/Portfolio/music" element={<Music />} />
-        <Route path="/Portfolio/UserPageDesigns" element={<UserPageDesigns />} />
+        <Route path="/MidiController" element={<UserPage />} />
+        <Route path="/music" element={<Music />} />
+        <Route path="/UserPageDesigns" element={<UserPageDesigns />} />
     </Routes>
 
     <div className="container">
         <p>
-          <Link to="/Portfolio/MidiController"></Link>
+          <Link to="/MidiController"></Link>
         </p>
         <p>
-          <Link to="/Portfolio/music"></Link>
+          <Link to="/music"></Link>
         </p>
         <p>
-          <Link to="/Portfolio/UserPageDesigns"></Link>
+          <Link to="/UserPageDesigns"></Link>
         </p>
         
         {/* <p>
