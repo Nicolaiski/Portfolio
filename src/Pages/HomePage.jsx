@@ -43,13 +43,13 @@ const HomePage = () => {
         {/* <h1>Home </h1> */}
         
         <p>
-          <Link to="/MidiController"></Link>
+          <Link to="/Portfolio/MidiController"></Link>
         </p>
         <p>
-          <Link to="/Music"></Link>
+          <Link to="/Portfolio/music"></Link>
         </p>
         <p>
-          <Link to="/UserPageDesigns"></Link>
+          <Link to="/Portfolio/UserPageDesigns"></Link>
         </p>
         
         {/* <p>
