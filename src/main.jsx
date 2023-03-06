@@ -25,7 +25,8 @@ root.render(
     <HashRouter>
     {/* <BrowserRouter> */}
       <Routes>
-        <Route path="*" element={<App/>} />
+        {/* <Route path="*" element={<App/>} /> */}
+        <Route path="/" element={<App/>} />
         {/* <Route path="/" element={<HomePage />} /> */}
         {/* <Route path="/UserPage" element={<UserPage />} />
         <Route path="/Music" element={<Music />} />
