@@ -14,12 +14,10 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <HashRouter>
-    {/* <BrowserRouter> */}
-    {/* <Routes> */}
       <App />
-      {/* <Route path="*" element={<App/>} />  */}
-    {/* </BrowserRouter> */}
-    {/* </Routes>  */}
+    {/* <Routes>
+      <Route path="*" element={<App/>} /> 
+    </Routes>  */}
     </HashRouter>
   </React.StrictMode>
   

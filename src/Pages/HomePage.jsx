@@ -1,7 +1,8 @@
 import styles from "../CONSTANT/style";
 import React from "react";
-// import Music from "./Music";
-
+import UserPage from "./UserPage";
+import Music from "./Music";
+import UserPageDesigns from "./UserPageDesigns";
 
 
 import {
@@ -25,14 +26,21 @@ import {
 
 
 } from "../Components";
-import { Link } from "react-router-dom";
+
+import { Routes, Route, Link} from "react-router-dom";
 
 const HomePage = () => {
   return (
     <div className="bg-primary w-full overflow-hidden">
     <div className={`${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}></div>  
-    </div>    
+    </div>  
+      
+    <Routes>
+        <Route path="/Portfolio/MidiController" element={<UserPage />} />
+        <Route path="/Portfolio/music" element={<Music />} />
+        <Route path="/Portfolio/UserPageDesigns" element={<UserPageDesigns />} />
+    </Routes>
 
     <div className="container">
         <p>
