@@ -31,7 +31,7 @@ import shuffleAllBtn from "../assets/icons/shuffle_all.png";
 import shuffleNoneBtn from "../assets/icons/shuffle_none.png";
 
 import SIGN from "../assets/Songs/SIGN.mp3";
-import waild from "../assets/Songs/why_am_i_like_dis.mp3";
+import waild from "../assets/Songs/Why_am_i_like_dis.mp3";
 import SF from "../assets/Songs/STICKY_FINGERS .wav";
 import SCUQ from "../assets/Songs/7514.wav";
 import H from "../assets/Songs/HILL.mp3";
