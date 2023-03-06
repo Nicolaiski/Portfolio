@@ -31,17 +31,10 @@ const HomePage = () => {
   return (
     <div className="bg-primary w-full overflow-hidden">
     <div className={`${styles.paddingX} ${styles.flexCenter}`}>
-    <div className={`${styles.boxWidth}`}>
-        {/* <NavBar/> */}
-    </div>  
-    {/* <div>
-      <Navbar/>
-    </div> */}
+      <div className={`${styles.boxWidth}`}></div>  
     </div>    
 
     <div className="container">
-        {/* <h1>Home </h1> */}
-        
         <p>
           <Link to="/Portfolio/MidiController"></Link>
         </p>

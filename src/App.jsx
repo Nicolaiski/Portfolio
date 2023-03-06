@@ -1,5 +1,5 @@
 import React from "react";
-import { Routes, Route, Link } from "react-router-dom";
+import { Routes, Route, Link} from "react-router-dom";
 import HomePage from "./Pages/HomePage";
 import UserPage from "./Pages/UserPage";
 import Music from "./Pages/Music";
@@ -8,7 +8,6 @@ import Navbar from "./Components/Navbar"
 
 const App = () => {
   return(
-
   <div className="content">
     <div>
     <Navbar/>
@@ -18,13 +17,14 @@ const App = () => {
         <Route path="/UserPage" element={<UserPage />} />
         <Route path="/Music" element={<Music />} />
         <Route path="/UserPageDesigns" element={<UserPageDesigns />} />       */}
-        <Route path="/Portfolio/" element={<HomePage />} />
+        
         <Route path="/Portfolio/MidiController" element={<UserPage />} />
         <Route path="/Portfolio/music" element={<Music />} />
         <Route path="/Portfolio/UserPageDesigns" element={<UserPageDesigns />} />  
+        <Route path="/Portfolio/" element={<HomePage />} />
       </Routes> 
+
   </div>
-   
   );
 };
 export default App;

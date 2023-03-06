@@ -8,19 +8,18 @@ import UserPageDesigns from "./Pages/UserPageDesigns";
 import UserPage from "./Pages/UserPage";
 import HomePage from "./Pages/HomePage";
 
-// ReactDOM.createRoot(document.getElementById("root")).render(
-//   <React.StrictMode>
-//     <App />
-//   </React.StrictMode>
-// );
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
   <React.StrictMode>
     <HashRouter>
     {/* <BrowserRouter> */}
-      <App />
+    <Routes>
+      {/* <App /> */}
+      <Route path="*" element={<App/>} /> 
     {/* </BrowserRouter> */}
+    </Routes> 
     </HashRouter>
   </React.StrictMode>
   
