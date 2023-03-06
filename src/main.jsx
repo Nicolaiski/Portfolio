@@ -15,25 +15,26 @@ import UserPage from "./Pages/UserPage";
 const root = ReactDOM.createRoot(document.getElementById("root"));
 
 root.render(
-  <React.StrictMode>
-    <BrowserRouter>
-      <App />
-    </BrowserRouter>
-  </React.StrictMode>
-  
   // <React.StrictMode>
-  //   <HashRouter>
-  //   {/* <BrowserRouter> */}
-  //     <Routes>
-  //       <Route path="*" element={<App/>} />
-  //       {/* <Route path="/" element={<HomePage />} /> */}
-  //       {/* <Route path="/UserPage" element={<UserPage />} />
-  //       <Route path="/Music" element={<Music />} />
-  //       <Route path="/UserPageDesigns" element={<UserPageDesigns />} /> */}
-  //     </Routes>
-      
-  //   </HashRouter>
-  //   {/* </BrowserRouter> */}
+  //   <BrowserRouter>
+  //     <App />
+  //   </BrowserRouter>
   // </React.StrictMode>
+  
+  <React.StrictMode>
+    <HashRouter>
+    {/* <BrowserRouter> */}
+      <Routes>
+        {/* <Route path="*" element={<App/>} /> */}
+        <Route path="/" element={<App/>} /> 
+        {/* <Route path="/" element={<HomePage />} /> */}
+        {/* <Route path="/UserPage" element={<UserPage />} />
+        <Route path="/Music" element={<Music />} />
+        <Route path="/UserPageDesigns" element={<UserPageDesigns />} /> */}
+      </Routes>
+      
+    </HashRouter>
+    {/* </BrowserRouter> */}
+  </React.StrictMode>
 
 );
