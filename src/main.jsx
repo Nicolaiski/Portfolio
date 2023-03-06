@@ -6,6 +6,7 @@ import { BrowserRouter, HashRouter, Route, Routes} from "react-router-dom";
 import Music from "./Pages/Music";
 import UserPageDesigns from "./Pages/UserPageDesigns";
 import UserPage from "./Pages/UserPage";
+import HomePage from "./Pages/HomePage";
 
 // ReactDOM.createRoot(document.getElementById("root")).render(
 //   <React.StrictMode>
@@ -27,7 +28,7 @@ root.render(
        <Routes>
          <Route path="*" element={<App/>} /> 
          <Route path="/Portfolio/" element={<HomePage />} /> 
-         <Route path="/Portfolio/UserPage" element={<UserPage />} />
+         <Route path="/Portfolio/MidiController" element={<UserPage />} />
         <Route path="/Portfolio/Music" element={<Music />} />
         <Route path="/Portfolio/UserPageDesigns" element={<UserPageDesigns />} /> 
       </Routes> 
