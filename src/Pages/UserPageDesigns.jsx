@@ -47,20 +47,19 @@ export default function UserPageDesigns() {
    
     <div className={layout.sectionInfo}>
       {/* <img src="nico1petite.png"/> */}
-      <h1 className={`${styles.heading} flex-start text-gradient text-[68px] mt-[-1370px] ml-[20px]`} >Designs </h1>
+      <h1 className={`${styles.heading} flex-start text-gradient text-[68px] md:mt-[-1350px] mt-[-1760px] ml-[20px]`} >Designs </h1>
       {/* <p className="font-poppins font-semibold text-white">https://www.dropbox.com/sh/rqya6aqe8vcr4ke/AADyAi0FZHT-8seJR9tiCYaga?dl=0</p> */}
      
     </div>
+   
 
-    
 
-
-    <section> 
-
+    {/* <section>  */}
     <div className={`${styles.flexCenter}`}>
-    <img src={BrainDead3} alt="BrainDead3" className=" flex-start items-center object-contain cursor-pointer h-[750px] w-[750px] mt-[100px] "/>
+    <img src={BrainDead3} alt="BrainDead3" className=" flex-start  object-contain cursor-pointer hover:scale-150 h-[750px] w-[750px] mt-[-80px]"/>
     </div>
-    </section>
+  
+    {/* </section> */}
 
     <section className="justify-beteween">
   
@@ -75,7 +74,13 @@ export default function UserPageDesigns() {
 
     </section>
     
+
+
+   
+    
   </section>
+
+  
     
   );
 

@@ -44,13 +44,13 @@ const HomePage = () => {
 
     <div className="container">
         <p>
-          <Link to="/Portfolio/#/MidiController"></Link>
+          <Link to="/MidiController"></Link>
         </p>
         <p>
-          <Link to="/Portfolio/#/Music"></Link>
+          <Link to="/Music"></Link>
         </p>
         <p>
-          <Link to="/Portfolio/#/UserPageDesigns"></Link>
+          <Link to="/UserPageDesigns"></Link>
         </p>
         
         
