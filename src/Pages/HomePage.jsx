@@ -35,12 +35,6 @@ const HomePage = () => {
     <div className={`${styles.paddingX} ${styles.flexCenter}`}>
       <div className={`${styles.boxWidth}`}></div>  
     </div>  
-      
-    {/* <Routes>
-        <Route path="/MidiController" element={<UserPage />} />
-        <Route path="/music" element={<Music />} />
-        <Route path="/UserPageDesigns" element={<UserPageDesigns />} />
-    </Routes> */}
 
     <div className="container">
         <p>
@@ -52,11 +46,7 @@ const HomePage = () => {
         <p>
           <Link to="/UserPageDesigns"></Link>
         </p>
-        
-        
-      
-      
-      
+
       </div>
 
 

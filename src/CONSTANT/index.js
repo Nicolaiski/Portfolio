@@ -23,8 +23,9 @@ export const navLinks = [
   },
   
   {
-
+    //when ran locally 
     //id: "Portfolio/#/Music",
+    //when deployed 
     id: "#/Music",
     title: "Music",
   },

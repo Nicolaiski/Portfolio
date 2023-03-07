@@ -15,15 +15,7 @@ const App = () => {
       <Routes>
         <Route exact path="/MidiController" element={<UserPage />} />
         <Route exact path="/Music" element={<Music />} />
-        <Route path="/UserPageDesigns" element={<UserPageDesigns />} />      
-        
-        {/* <Route path="/Portfolio/MidiController" element={<UserPage />} />
-        <Route path="/Portfolio/Music" element={<Music />} />
-        <Route path="/Portfolio/UserPageDesigns" element={<UserPageDesigns />} />   */}
-        
-        {/* <Route path="/#/MidiController" element={<UserPage />} />
-        <Route path="/music" element={<Music />} />
-        <Route path="/#/UserPageDesigns" element={<UserPageDesigns />} />   */}
+        <Route path="/UserPageDesigns" element={<UserPageDesigns />} />  
         <Route path="*" element={<HomePage />} />
       </Routes> 
 

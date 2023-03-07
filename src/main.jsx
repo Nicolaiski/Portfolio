@@ -14,30 +14,8 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <HashRouter>
-    <App />
-        {/* <Route exact path="/Portfolio/MidiController" element={<UserPage />} />
-        <Route exact path="/Portfolio/Music" element={<Music />} />
-        <Route path="/UserPageDesigns" element={<UserPageDesigns />} />    */}
-
-    {/* <Routes>
-      <Route path="*" element={<App/>} /> 
-    </Routes>  */}
+      <App />
     </HashRouter>
   </React.StrictMode>
-  
-  // <React.StrictMode>
-  //   <HashRouter>
-  //   {/* <BrowserRouter> */}
-  //      <Routes>
-  //        <Route path="*" element={<App/>} /> 
-  //        <Route path="/Portfolio/" element={<HomePage />} /> 
-  //        <Route path="/Portfolio/MidiController" element={<UserPage />} />
-  //       <Route path="/Portfolio/Music" element={<Music />} />
-  //       <Route path="/Portfolio/UserPageDesigns" element={<UserPageDesigns />} /> 
-  //     </Routes> 
-  //      {/* <App /> */}
-  //   </HashRouter>
-  //   {/* </BrowserRouter> */}
-  // </React.StrictMode>
 
 );
