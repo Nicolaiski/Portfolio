@@ -47,7 +47,7 @@ import BrainDead3 from "./DESIGN/BrainDead3.jpg";
 import E from "./DESIGN/E.jpg";
 // import LostInThoughts from "LOST_IN_THOUGHTS.jpg";
 import Polpo from "./DESIGN/POLPO.mp4";
-import Sign from "./DESIGN/Sign.jpg";
+import Sign from "./DESIGN/SIGN.jpg";
 
 
 
