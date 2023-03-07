@@ -24,15 +24,15 @@ export const navLinks = [
   
   {
 
-    id: "music",
+    id: "Portfolio/Music",
     title: "Music",
   },
   {
-    id: "MidiController",
+    id: "Portfolio/MidiController",
     title: "MIDI Controller",
   },
   {
-    id: "UserPageDesigns",
+    id: "Portfolio/UserPageDesigns",
     title: "Designs",
   },
 

@@ -9,7 +9,7 @@ const Button5 = ({ styles }) => {
     return (
      //"Get Started" button placement 
       
-     <Link to="/UserPage">
+     <Link to="/MidiController">
       
       <button type="button5" className={`py-4 px-6
       bg-blue-gradient font-poppins font-medium
