@@ -36,32 +36,23 @@ const HomePage = () => {
       <div className={`${styles.boxWidth}`}></div>  
     </div>  
       
-    <Routes>
+    {/* <Routes>
         <Route path="/MidiController" element={<UserPage />} />
         <Route path="/music" element={<Music />} />
         <Route path="/UserPageDesigns" element={<UserPageDesigns />} />
-    </Routes>
+    </Routes> */}
 
     <div className="container">
         <p>
-          <Link to="/MidiController"></Link>
+          <Link to="/Portfolio/#/MidiController"></Link>
         </p>
         <p>
-          <Link to="/music"></Link>
+          <Link to="/Portfolio/#/Music"></Link>
         </p>
         <p>
-          <Link to="/UserPageDesigns"></Link>
+          <Link to="/Portfolio/#/UserPageDesigns"></Link>
         </p>
         
-        {/* <p>
-          <Link to="/Portfolio/UserPage"></Link>
-        </p>
-        <p>
-          <Link to="/Portfolio/music"></Link>
-        </p>
-        <p>
-          <Link to="/Portfolio/UserPageDesigns"></Link>
-        </p> */}
         
       
       

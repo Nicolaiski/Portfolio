@@ -33,7 +33,7 @@ export default function UserPage() {
     <div className={layout.sectionInfo}>
       {/* <img src="nico1petite.png"/> */}
       <h1 className= {styles.heading2}>Midi Controler with an Arduino Micro </h1>
-      <p className="font-poppins font-semibold text-white">https://www.dropbox.com/sh/3pfcsibt49vu6jh/AAASbinM79MEp79yUAMtGQHha?dl=0/</p>
+      <p className="object-contain cursor-pointer font-poppins font-semibold text-white">https://www.dropbox.com/sh/3pfcsibt49vu6jh/AAASbinM79MEp79yUAMtGQHha?dl=0/</p>
    
     </div>
 

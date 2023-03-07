@@ -14,7 +14,11 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
     <HashRouter>
-      <App />
+    <App />
+        {/* <Route exact path="/Portfolio/MidiController" element={<UserPage />} />
+        <Route exact path="/Portfolio/Music" element={<Music />} />
+        <Route path="/UserPageDesigns" element={<UserPageDesigns />} />    */}
+
     {/* <Routes>
       <Route path="*" element={<App/>} /> 
     </Routes>  */}

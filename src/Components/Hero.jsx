@@ -39,8 +39,8 @@ const Hero = () => (
           [42px] text-white ss:leading-[100px]
           leading-[55px] w-full">Fall Term 2023.</h1>
           <p className={`${styles.paragraph} max-w-
-          [470px] mt-5`}> Ceci est une présentation de mon portfolio, 
-          ainsi que certains de mes projets pour le diplome BFA computational Arts</p>
+          [470px] mt-5`}> This is a presentation of my Portfolio, 
+          and some of my projects for the BFA computational Arts</p>
 
     
     </div>

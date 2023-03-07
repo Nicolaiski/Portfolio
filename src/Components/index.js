@@ -19,6 +19,7 @@ import Button4 from './Button4';
 import Button5 from './Button5';
 // import MediaPlayer from './MediaPlayer';
 import VideoPlayer from './VideoPlayer';
+import VideoPlayer2 from './VideoPlayer2';
 import Play from './Play';
 // import NavBar from '../Pages/HomePage';
 import UserPageDesigns from '../Pages/UserPage';
@@ -45,6 +46,7 @@ Button4,
 Button5,
 // MediaPlayer,
 VideoPlayer,
+VideoPlayer2,
 Play,
 UserPageDesigns,
 
