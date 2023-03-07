@@ -9,7 +9,7 @@ import BrainDead3 from "../assets/DESIGN/BrainDead3.jpg";
 import E from "../assets/DESIGN/E.jpg";
 // import LostInThoughts from "LOST_IN_THOUGHTS.jpg";
 import Polpo from "../assets/DESIGN/POLPO.mp4";
-import Sign from "../assets/DESIGN/Sign.jpg";
+import Sign from "../assets/DESIGN/SIGN.jpg";
 
 import VideoPlayer from "../Components/VideoPlayer";
 
