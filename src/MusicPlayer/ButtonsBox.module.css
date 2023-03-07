@@ -1,11 +1,16 @@
 .wrapper {
     display: grid;
-    grid-template-columns: repeat(5, auto);
-    place-items: center;
+    grid-template-columns: repeat(5,auto);
+    place-items:  center;
+    margin: 10px ;
+    max-height: 125px;
+    min-height: 120px;
+    overflow-x: hidden;
+    padding-right: 0px;
   }
 
 
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 800px) {
     .wrapper {
       grid-template-columns: repeat(3, auto);
     }

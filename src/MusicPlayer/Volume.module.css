@@ -1,14 +1,15 @@
 .wrapper {
-    display: grid;
+   
     place-items: center;
+    text-align: right;
     min-height: 60px;
   }
   
   .slider {
     -webkit-appearance: none;
-    width: 70%;
-    height: 3px;
-    border-radius: 5px;
+    width: 30%;
+    height: 2px;
+    border-radius: 2px;
     background: var(--volumeSlider);
   }
   
@@ -16,7 +17,7 @@
     -webkit-appearance: none;
     width: 20px;
     height: 20px;
-    border-radius: 50%;
+    border-radius: 70%;
     background: var(--volumeSlider);
     cursor: pointer;
   }
