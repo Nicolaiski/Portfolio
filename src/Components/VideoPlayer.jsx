@@ -5,13 +5,13 @@ import styles from '../CONSTANT/style';
 const VideoPlayer = () => {
   return (
 
-    <div className=" flex mt-[-500px] ml-[-0px]">
+    <div >
     < ReactPlayer 
  
     
     url="https://www.dropbox.com/s/uzdljooxt2rkfsa/StopMotion2.MP4?dl=0"
-      width="50%"
-      height="50%"
+      width="100%"
+      height="100%"
       controls
     
       

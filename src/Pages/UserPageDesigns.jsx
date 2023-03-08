@@ -1,18 +1,21 @@
 import React from "react";
-// import { useParams } from "react-router-dom";
 import styles, { layout } from "../CONSTANT/style";
+
+
+
+
 import A from "../assets/DESIGN/A.mp4";
 import Alphabet from "../assets/DESIGN/ALPHABET.jpg";
 import BrainDead1 from "../assets/DESIGN/BrainDead1.jpg";
 import BrainDead2 from "../assets/DESIGN/BrainDead2.jpg";
 import BrainDead3 from "../assets/DESIGN/BrainDead3.jpg";
 import E from "../assets/DESIGN/E.jpg";
-// import LostInThoughts from "LOST_IN_THOUGHTS.jpg";
+import LostInThoughts from "../assets/DESIGN/LOST_IN_THOUGHTS.jpg";
 import Polpo from "../assets/DESIGN/POLPO.mp4";
 import Sign from "../assets/DESIGN/SIGN.jpg";
 
-import VideoPlayer from "../Components/VideoPlayer";
 
+import VideoPlayer from "../Components/VideoPlayer";
 import VideoPlayer2 from "../Components/VideoPlayer2";
 
 
@@ -20,140 +23,102 @@ import VideoPlayer2 from "../Components/VideoPlayer2";
 
 
 
-<div className={`flex-start flex ${styles.flexCenter} 
-md:my-0 my-15 relative`}>
-
-{/* className="w-[100%] h-[100%] xl:w-full relative z-[5]" */}
-
-
-<div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 
-relative"absolute z-[0] w-[40%] 
-h-[35%] top-0 pink__gradient`}/>
-<div className="absolute z-[1] w-[80%] 
-h-[80%] rounded-full bottom-40 white__gradient"/>
-<div className="absolute z-[0] w-[50%] 
-h-[50%] right-20 bottom-20 blue__gradient"/>
-
-</div>
-
-
 export default function UserPageDesigns() {
   // let { id } = useParams();
   return (
    
    
-   <section id="user-page" className={layout.section}>
+    <section id="user-page" className={layout.section}>
    
+      <div>
    
-    <div className={layout.sectionInfo}>
-      {/* <img src="nico1petite.png"/> */}
-      <h1 className={`${styles.heading} flex-start text-gradient text-[68px] md:mt-[-1350px] mt-[-1760px] ml-[20px]`} >Designs </h1>
-      {/* <p className="font-poppins font-semibold text-white">https://www.dropbox.com/sh/rqya6aqe8vcr4ke/AADyAi0FZHT-8seJR9tiCYaga?dl=0</p> */}
-     
-    </div>
-   
-
-
-    {/* <section>  */}
-    <div className={`${styles.flexCenter}`}>
-    <img src={BrainDead3} alt="BrainDead3" className=" flex-start  object-contain cursor-pointer hover:scale-150 h-[750px] w-[750px] mt-[-80px]"/>
-    </div>
-  
-    {/* </section> */}
-
-    <section className="justify-beteween">
-  
-      <div className={`${layout} mt-[900px]
-      h-100% w-100%`}>
-      <VideoPlayer />
-      </div>
+          <div className={layout.sectionInfo}>
+            <h1 className={`${styles.heading} text-gradient text-[68px] 
+            mt-[-100px] ml-[20px] xl:mt-[-90px]`} >Designs </h1>
+          </div>
       
-      <div className=" mt-[500px] ">
-      <VideoPlayer2 />
+          <container>
+            <div>
+                  
+                <div>
+
+
+                  <div>
+                    
+                  <i 
+                    className="cursor-pointer 
+                    opacity-25 hover:opacity-100">
+                      
+                      <img src={Sign} alt="SIGN"  className=" mb-[185px] mt-[200px]
+                       cursor-pointer hover:scale-125 xl:w-full mb-[373px] "/> 
+                      
+                    </i>
+                  </div>
+                  
+
+
+                  <div>
+                   <i 
+                   className="cursor-pointer opacity-25
+                  hover:opacity-100">
+                    
+                    <img src={BrainDead2} alt="BrainDead2" className=" mb-[187px] mt-[185px] cursor-pointer 
+                    w-90 h-90 hover:scale-125 xl:w-full mb-[374px]"/>
+                  
+                   </i>
+                  </div>
+                  <div>
+                    <i>
+                      <img src={BrainDead3} alt="BrainDead3" className="  mb-[100px] mt-[100px]
+                      w-90 h-90 cursor-pointer hover:scale-125 opacity-25 hover:opacity-100 
+                      xl:w-full mb-[280px]"/>
+                    </i>
+                  </div>
+                  <img src={E} alt="E" className="  mb-[140px] mt-[140px] object-container 
+                  cursor-pointer w-90 h-90 hover:scale-125 opacity-25 hover:opacity-100 
+                  xl:w-full mb-[280px]"/>
+                  <img src={BrainDead1} alt="BrainDead1" className="  mb-[140px] mt-[100px] object-container
+                  cursor-pointer w-90 h-90 hover:scale-125 opacity-25 hover:opacity-100 
+                  xl:w-full mb-[170px]"/>
+                  <img src={Alphabet} alt="Alphabet" className=" mb-[100px] mt-[100px] object-container
+                  cursor-pointer w-90 h-90 hover:scale-125 opacity-25 hover:opacity-100 
+                  xl:w-full mt-[280px] "/>
+                  
+                </div>
+              
+          
+            </div>
+          </container>
       </div>
 
-    </section>
     
 
-
-   
-    
-  </section>
-
-  
-    
+        </section>
+     
   );
 
 };
 
 
 
+{/* 
+                <section>
+
+                <div className="mt-[950px] h-200% w-200% mr-[700px]">
+                  <VideoPlayer2 />
+                  <VideoPlayer />
+                  </div>
+
+                </section> */}
+
+                  {/* <VideoPlayer2 className="mt-[50px]"/>
+                <VideoPlayer /> */}
 
 
 
 
 
-// import React from "react";
-// // import { useParams } from "react-router-dom";
-// import styles, { layout } from "../CONSTANT/style";
-// // import ReactPlayer from "react-player";
-// import VideoPlayer from "../Components/VideoPlayer";
 
 
 
-
-
-
-// {/* <div className="container">
-//  <h1>Home </h1> 
-// <p>
-//   <Link to="/UserPage"></Link>
-// </p>
-// <p>
-//   <Link to="/Music"></Link>
-// </p>
-// </div> */}
-
-
-
-// <div className={`flex-start flex ${styles.flexCenter} 
-// md:my-0 my-15 relative`}>
-
-// <div className="w-[100%] h-[100%] xl:w-full relative z-[5]"/>
-
-// {/* <img src="music/musicImg/sign.jpg" alt="music-cover" id="cover"/> */}
-
-// <div className={`flex-1 flex ${styles.flexCenter} md:my-0 my-10 
-// relative"absolute z-[0] w-[40%] 
-// h-[35%] top-0 pink__gradient`}/>
-// <div className="absolute z-[1] w-[80%] 
-// h-[80%] rounded-full bottom-40 white__gradient"/>
-// <div className="absolute z-[0] w-[50%] 
-// h-[50%] right-20 bottom-20 blue__gradient"/>
-
-// </div>
-
-
-// export default function UserPageDesigns() {
-//   // let { id } = useParams();
-//   return (
-   
-//      <section id="user-page" className={layout.section}>
-    
-    
-    
-    
-//     <div className={layout.sectionInfo}>
-
-//         <VideoPlayer/>
-    
-    
-   
-//    </div>
-    
-// </section>
-    
-//   );
-
-// };
 

@@ -1,7 +1,10 @@
 .wrapper {
     display: grid;
-    grid-template-columns: auto 0%;
-    margin-bottom: 30px;
+    grid-template-columns: auto;
+    margin-top: 100px;
+  
+    margin-left: 300px ;
+    margin-right: 300px ;
   }
 
 
