@@ -4,6 +4,7 @@ import styles, { layout } from "../CONSTANT/style";
 
 
 
+
 import A from "../assets/DESIGN/A.mp4";
 import Alphabet from "../assets/DESIGN/ALPHABET.jpg";
 import BrainDead1 from "../assets/DESIGN/BrainDead1.jpg";
@@ -43,46 +44,209 @@ export default function UserPageDesigns() {
                 <div>
 
 
-                  <div>
+                <div className=" xl:ml-[500px] w-[1600px] h-[1200px] bg-transparent cursor-pointer group perspective  hover:opacity-100 ">
+                  <div className="relative preserve-3d group-hover:my-rotate-y-180 xl:ml-[0px]  w-[1200px] h-[1200px] duration-1000">
                     
-                  <i 
-                    className="cursor-pointer 
-                    opacity-25 hover:opacity-100">
+                 
+                    <div className=" absolute backface-hidden border-0 w-full h-full">
+                      <img src={Sign} alt="Sign" className=" mb-[100px] mt-[100px]
+                      w-full h-full cursor-pointer hover:scale-125  
+                      xl: h-full w-full"/>
+                    </div>
+                    <div className=" absolute backface-hidden my-rotate-y-180 w-full h-full bg-black">
+                    
+                    <div className=" text-gradient text-center flex flex-col items-center
+                    justify-center h-full">
+                        <button class=" bg-transparent -bottom-20 delay-500 duration-1000 scale-0 
+                        group-hover:scale-100 group-hover:bottom-20 
+                        text-[84px] text-gradient font-poppins font-bold">"Sign"</button>
+                        <button class=" -bottom-20 group-hover:bottom-20 scale-0 group-hover:scale-100
+                        delay-1000 duration-1000
+                        font-poppins font-normal text-[48px] text-gradient"> 
+                        Digital Illustration <br/> Cover For One Of My Song
+                        <br/>
+                        Made On Procreate <br/> 2022 </button>
                       
-                      <img src={Sign} alt="SIGN"  className=" mb-[185px] mt-[200px]
-                       cursor-pointer hover:scale-125 xl:w-full mb-[373px] "/> 
-                      
-                    </i>
-                  </div>
+                    </div>
+                    
+                    </div>
+                 
+                  </div >
+                </div>
                   
 
 
-                  <div>
-                   <i 
-                   className="cursor-pointer opacity-25
-                  hover:opacity-100">
+                  <div className=" xl:ml-[500px] w-[1200px] h-[1200px] bg-transparent cursor-pointer group perspective  hover:opacity-100 ">
+                  <div className="relative preserve-3d group-hover:my-rotate-y-180 xl:ml-[0px]  w-[1200px] h-[1200px] duration-1000">
                     
-                    <img src={BrainDead2} alt="BrainDead2" className=" mb-[187px] mt-[185px] cursor-pointer 
-                    w-90 h-90 hover:scale-125 xl:w-full mb-[374px]"/>
+                 
+                    <div className=" absolute backface-hidden border-0 w-full h-full">
+                      <img src={BrainDead2} alt="BrainDead2" className=" mb-[100px] mt-[100px]
+                      w-full h-full cursor-pointer hover:scale-125  
+                      xl: h-full w-full"/>
+                    </div>
+                    <div className=" absolute backface-hidden my-rotate-y-180 w-full h-full bg-black">
+                    
+                    <div className=" text-gradient text-center flex flex-col items-center
+                    justify-center h-full">
+                        <button class=" -bottom-20 group-hover:bottom-20 scale-0 group-hover:scale-100
+                        bg-transparent delay-500 duration-1000
+                        text-[84px] font-poppins font-bold text-gradient">
+                        "Brain Dead"</button>
+                        <button class=" bg-transparent -bottom-20 group-hover:bottom-20
+                        scale-0 group-hover:scale-100 delay-1000 duration-1000
+                        my-2 font-poppins font-normal text-[48px] text-gradient"> 
+                        An alternative Digital Illustration <br/> 
+                        For One Of My Song<br/>
+                        Made On Procreate <br/> 2022 </button>
+                      
+                    </div>
+                    
+                    </div>
+                 
+                  </div >
+                </div>
+               
+                 <div className=" xl:ml-[500px] w-[1200px] h-[1200px] bg-transparent cursor-pointer group perspective  hover:opacity-100 ">
+                  <div className="relative preserve-3d group-hover:my-rotate-y-180 xl:ml-[0px]  w-[1200px] h-[1200px] duration-1000">
+                    
+                 
+                    <div className=" absolute backface-hidden border-0 w-full h-full">
+                      <img src={BrainDead3} alt="BrainDead3" className=" mb-[100px] mt-[100px]
+                      w-full h-full cursor-pointer hover:scale-125  
+                      xl: h-full w-full"/>
+                    </div>
+                    <div className=" absolute backface-hidden my-rotate-y-180 w-full h-full bg-black">
+                    
+                    <div className=" text-gradient text-center flex flex-col items-center
+                    justify-center h-full">
+                        <button class=" bg-transparent -bottom-20 group-hover:bottom-20
+                        scale-0 group-hover:scale-100
+                        delay-500 duration-1000
+                        text-[84px] font-poppins font-bold text-gradient">"Brain Dead"</button>
+                        <button class=" bg-transparent -bottom-20 group-hover:bottom-20
+                        scale-0 group-hover:scale-100 delay-1000 duration-1000
+                        font-poppins font-normal text-[48px] text-gradient"> An alternative Digital Illustration <br/> made with Procreate 
+                        for one of my song cover <br/> 2023 </button>
+                      
+                    </div>
+                    
+                    </div>
+                 
+                  </div >
+                </div>
+
+                <div className=" xl:ml-[500px] w-[1200px] h-[1200px] bg-transparent cursor-pointer group perspective  hover:opacity-100 ">
+                  <div className="relative preserve-3d group-hover:my-rotate-y-180 xl:ml-[0px]  w-[1200px] h-[1200px] duration-1000">
+                    
+                 
+                    <div className=" absolute backface-hidden border-0 w-full h-full">
+                      <img src={E} alt="E" className=" mb-[100px] mt-[100px]
+                      w-full h-full cursor-pointer hover:scale-125  
+                      xl: h-full w-full"/>
+                    </div>
+                    <div className=" absolute backface-hidden my-rotate-y-180 w-full h-full bg-black">
+                    
+                    <div className=" text-gradient text-center flex flex-col items-center
+                    justify-center h-full">
+                        <button class=" group-hover:bottom-20 rounded-full scale-0 group-hover:scale-100 
+                        px-6 py-2 text-[84px] text-gradient font-poppins font-bold bg-transparent -bottom-20 delay-500 duration-1000 ">"E"</button>
+                        <button class=" group-hover:bottom-20 rounded-full scale-0 group-hover:scale-100 
+                        px-6 py-2  font-poppins font-normal text-[48px] text-gradient bg-transparent -bottom-20 delay-1000 duration-1000"> Typography work, <br/> Made On Procreate <br/> 2022 </button>
+                      
+                    </div>
+                    
+                    </div>
+                 
+                  </div >
+                </div>
+
+
+                <div className=" xl:ml-[500px] w-[1200px] h-[1200px] bg-transparent cursor-pointer group perspective  hover:opacity-100 ">
+                  <div className="relative preserve-3d group-hover:my-rotate-y-180 xl:ml-[0px]  w-[1200px] h-[1200px] duration-1000">
+                    
+                 
+                    <div className=" absolute backface-hidden border-0 w-full h-full">
+                      <img src={BrainDead1} alt="BrainDead1" className=" mb-[100px] mt-[100px]
+                      w-full h-full cursor-pointer hover:scale-125  
+                      xl: h-full w-full"/>
+                    </div>
+                    <div className=" absolute backface-hidden my-rotate-y-180 w-full h-full bg-black">
+                    
+                    <div className=" text-gradient text-center flex flex-col items-center
+                    justify-center h-full">
+                        <button class=" bg-transparent -bottom-20 group-hover:bottom-20
+                        scale-0 group-hover:scale-100 delay-500 duration-1000
+                        text-[84px] font-poppins font-bold text-gradient">
+                        "Brain Dead"</button>
+                        <button class="bg-transparent -bottom-20 group-hover:bottom-20
+                        scale-0 group-hover:scale-100 delay-1000 duration-1000
+                        text-[48px] font-poppins font-bold text-gradient"> Typography work, <br/> Alternative Cover  <br/> Made On Procreate. <br/> 2022 </button>
+                      
+                    </div>
+                    
+                    </div>
+                 
+                  </div >
+                </div>
+
+                <div className=" xl:ml-[500px] w-[1200px] h-[1200px] bg-transparent cursor-pointer group perspective  hover:opacity-100 ">
+                  <div className="relative preserve-3d group-hover:my-rotate-y-180 xl:ml-[0px]  w-[1200px] h-[1200px] duration-1000">
+                    
+                 
+                    <div className=" absolute backface-hidden border-0 w-full h-full">
+                      <img src={Alphabet} alt="Alphabet" className=" mb-[100px] mt-[100px]
+                      w-full h-full cursor-pointer hover:scale-125  
+                      xl: h-full w-full"/>
+                    </div>
+                    <div className=" absolute backface-hidden my-rotate-y-180 w-full h-full bg-black">
+                    
+                    <div className=" text-gradient text-center flex flex-col items-center
+                    justify-center h-full">
+                        <button class="bg-transparent -bottom-20 group-hover:bottom-20
+                        scale-0 group-hover:scale-100 delay-500 duration-1000
+                        text-[84px] font-poppins font-bold text-gradient">"Alphabet"</button>
+                        <p class="bg-transparent -bottom-20 group-hover:bottom-20
+                        scale-0 group-hover:scale-100 delay-1000 duration-1000
+                        text-[48px] font-poppins font-bold text-gradient"> Typography work, <br/> Made On Procreate. <br/> 2022 </p>
+                      
+                    </div>
+                    
+                    </div>
+                 
+                  </div >
+                </div>
+
+                <div className=" xl:ml-[500px] w-[1200px] h-[1200px] bg-transparent cursor-pointer group perspective  hover:opacity-100 ">
+                  <div className="relative preserve-3d group-hover:my-rotate-y-180 xl:ml-[0px]  w-[1200px] h-[1200px] duration-1000">
+                    
+                 
+                    <div className=" absolute backface-hidden border-0 w-full h-full">
+                      <img src={LostInThoughts} alt="LIT" className=" mb-[100px] mt-[100px]
+                      w-full h-full cursor-pointer hover:scale-125  
+                      xl: h-full w-full"/>
+                    </div>
+                    <div className=" absolute backface-hidden my-rotate-y-180 w-full h-full bg-black">
+                    
+                    <div className=" text-white text-center flex flex-col items-center
+                    justify-center h-full ">
+                        <button class=" bg-transparent px-6 py-2 text-[84px] text-gradient font-poppins 
+                        font-bold -bottom-20 delay-500 duration-1000
+                        group-hover:bottom-20 rounded-full scale-0 group-hover:scale-100">"Lost In Thoughts"</button>
+                        <button class=" bg-transparent my-2 font-poppins font-normal text-gradient text-[48px] 
+                        -bottom-20 delay-1000 duration-1000
+                        group-hover:bottom-20 rounded-full scale-0 group-hover:scale-100"> 
+                        Collage <br/> Made On Procreate. <br/> 2022 </button>
+                      
+                    </div>
+                    
+                    </div>
+                 
+                  </div >
+                </div>
                   
-                   </i>
-                  </div>
-                  <div>
-                    <i>
-                      <img src={BrainDead3} alt="BrainDead3" className="  mb-[100px] mt-[100px]
-                      w-90 h-90 cursor-pointer hover:scale-125 opacity-25 hover:opacity-100 
-                      xl:w-full mb-[280px]"/>
-                    </i>
-                  </div>
-                  <img src={E} alt="E" className="  mb-[140px] mt-[140px] object-container 
-                  cursor-pointer w-90 h-90 hover:scale-125 opacity-25 hover:opacity-100 
-                  xl:w-full mb-[280px]"/>
-                  <img src={BrainDead1} alt="BrainDead1" className="  mb-[140px] mt-[100px] object-container
-                  cursor-pointer w-90 h-90 hover:scale-125 opacity-25 hover:opacity-100 
-                  xl:w-full mb-[170px]"/>
-                  <img src={Alphabet} alt="Alphabet" className=" mb-[100px] mt-[100px] object-container
-                  cursor-pointer w-90 h-90 hover:scale-125 opacity-25 hover:opacity-100 
-                  xl:w-full mt-[280px] "/>
+           
+              
                   
                 </div>
               
@@ -120,5 +284,22 @@ export default function UserPageDesigns() {
 
 
 
+///////////////////////// OLD IMAGES  ///////////////////////// 
 
 
+
+       {/* <img src={E} alt="E" className="  mb-[140px] mt-[140px] object-container 
+                  cursor-pointer w-90 h-90 hover:scale-125 opacity-25 hover:opacity-100 
+                  xl:w-full mb-[280px]"/> */}
+
+       {/* <img src={BrainDead1} alt="BrainDead1" className="  mb-[140px] mt-[100px] object-container
+                  cursor-pointer w-90 h-90 hover:scale-125 opacity-25 hover:opacity-100 
+                  xl:w-full mb-[170px]"/> */}
+
+       {/* <img src={Alphabet} alt="Alphabet" className=" mb-[100px] mt-[100px] object-container
+                  cursor-pointer w-90 h-90 hover:scale-125 opacity-25 hover:opacity-100 
+                  xl:w-full mt-[280px] "/> */}
+
+        {/* <img src={LostInThoughts} alt="LIT" className=" mb-[100px] mt-[100px] object-container
+                  cursor-pointer w-90 h-90 hover:scale-125 opacity-25 hover:opacity-100 
+                  xl:w-full mt-[280px] "/> */}
