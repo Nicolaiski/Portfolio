@@ -18,8 +18,7 @@ import BlackLotus from "../assets/DESIGN/BlackLotus.png";
 import StickyFingers from "../assets/DESIGN/StickyFingers.jpg";
 import Resko1 from "../assets/DESIGN/Resko1.jpg";
 import Resko22 from "../assets/DESIGN/Resko22.png";
-//import Resko3 from "../assets/DESIGN/Resko3.jpg";
-//import Resko3 from "../assets/DESIGN/Resko3.jpg";
+import Resko33 from "../assets/DESIGN/Resko33.jpg";
 
 
 import VideoPlayer from "../Components/VideoPlayer";
