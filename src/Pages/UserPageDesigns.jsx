@@ -17,7 +17,7 @@ import Sign from "../assets/DESIGN/SIGN.jpg";
 import BlackLotus from "../assets/DESIGN/BlackLotus.png";
 import StickyFingers from "../assets/DESIGN/StickyFingers.jpg";
 import Resko1 from "../assets/DESIGN/Resko1.jpg";
-//import Resko2 from "../assets/DESIGN/Resko2.PNG";
+import Resko22 from "../assets/DESIGN/Resko22.png";
 //import Resko3 from "../assets/DESIGN/Resko3.jpg";
 //import Resko3 from "../assets/DESIGN/Resko3.jpg";
 
@@ -397,13 +397,13 @@ export default function UserPageDesigns() {
           </div>
 
 
-                {/* <section class="  mt-[10px] ml-[500px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1600px] ">
+                <section class="  mt-[10px] ml-[500px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1600px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1200px] ">
                     
                  
                     <div className=" absolute backface-hidden border-0 w-[1200px] h-[1800px]">
-                      <img src={Resko2} alt="R2" className=" mb-[100px] mt-[-300px] rounded
+                      <img src={Resko22} alt="R2" className=" mb-[100px] mt-[-300px] rounded
                       w-[1200px] h-[2200px] cursor-pointer hover:scale-125 
                       xl: w-[1200px] h-[1200px]"/>
                     </div>
@@ -427,7 +427,7 @@ export default function UserPageDesigns() {
                  
                   </div >
                 </div>
-                </section> */}
+                </section>
                 
 
 
