@@ -12,7 +12,7 @@ const Footers= () => (
        
         </div>
     <h1 className={`${styles.title} font-poppins flex-col text-white`}></h1>
-    <div>
+    <div className="ml-[30px]">
         <p className="flex-col text-white">
           <Link to = "https://www.instagram.com/_jeunepremier_/">Instagram</Link>
          </p>
