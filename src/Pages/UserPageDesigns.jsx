@@ -52,10 +52,10 @@ export default function UserPageDesigns() {
 
                 <div className={layout.sectionInfo}>
             <h1 className={`${styles.heading} text-gradient font-normal  text-[48px] 
-            mt-[400px] ml-[1050px] xl:mt-[300px]`} >Digital Designs </h1>
+            mt-[400px] ml-[30px] xl:mt-[300px]`} >Digital Designs </h1>
           </div>
 
-               <section class="  mt-[50px] ml-[0px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1800px] ">
+               <section class="  mt-[50px] ml-[30px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1800px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1800px] ">
                     
