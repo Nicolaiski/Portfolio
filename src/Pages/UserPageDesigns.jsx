@@ -57,7 +57,7 @@ export default function UserPageDesigns() {
 
 
 
-               <section class="  mt-[50px] ml-[250px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1800px] ">
+               <section class="  mt-[250px] ml-[250px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1800px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1800px] ">
                     
@@ -91,7 +91,7 @@ export default function UserPageDesigns() {
 
 
 
-                <section class="  mt-[100px] ml-[500px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1800px] ">
+                <section class="  mt-[100px] ml-[250px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1800px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1800px] ">
                     
@@ -126,7 +126,7 @@ export default function UserPageDesigns() {
 
 
 
-                <section class="  mt-[100px] ml-[500px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
+                <section class="  mt-[100px] ml-[250px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1200px] ">
                     
@@ -159,7 +159,7 @@ export default function UserPageDesigns() {
                 </section>
                   
 
-                <section class="  mt-[100px] ml-[500px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
+                <section class="  mt-[100px] ml-[250px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1200px] ">
                     
@@ -191,7 +191,7 @@ export default function UserPageDesigns() {
 
               
                
-                <section class="  mt-[100px] ml-[500px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
+                <section class="  mt-[100px] ml-[250px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1200px] ">
                     
@@ -226,7 +226,7 @@ export default function UserPageDesigns() {
 
 
 
-                <section class="  mt-[100px] ml-[500px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
+                <section class="  mt-[100px] ml-[250px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1200px] ">
                     
@@ -260,7 +260,7 @@ export default function UserPageDesigns() {
 
 
 
-                <section class="  mt-[100px] ml-[500px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
+                <section class="  mt-[100px] ml-[250px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1200px] ">
                     
@@ -294,7 +294,7 @@ export default function UserPageDesigns() {
                 
                 
                 
-              <section class="  mt-[100px] ml-[500px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
+              <section class="  mt-[100px] ml-[250px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1200px] ">
                     
@@ -360,7 +360,7 @@ export default function UserPageDesigns() {
 
 
 
-                <section class="  mt-[100px] ml-[500px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
+                <section class="  mt-[100px] ml-[250px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1200px] ">
                     
@@ -398,7 +398,7 @@ export default function UserPageDesigns() {
           </div>
 
 
-                <section class="  mt-[10px] ml-[500px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1600px] ">
+                <section class="  mt-[10px] ml-[250px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1600px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1200px] ">
                     
@@ -435,7 +435,7 @@ export default function UserPageDesigns() {
 
 
                 <div>
-                  <div className=" xl:ml-[500px] mt-[550px] mb-[300px] w-[1200px] group">
+                  <div className=" xl:ml-[250px] mt-[550px] mb-[300px] w-[1200px] group">
                   <button className=" mt-[400px] group-hover:my-rotate-y-180 text-center ml-[390px] items-center 
                         bg-gradient my-8 font-poppins text-gradient text-[128px] font-bold
                         - delay-100 duration-500 rounded-full"> 
@@ -452,7 +452,7 @@ export default function UserPageDesigns() {
 
                 
                 <div>
-                  <div className="xl:ml-[500px] mt-[950px] mb-[300px] w-[1200px] group">
+                  <div className="xl:ml-[250px] mt-[950px] mb-[300px] w-[1200px] group">
                   <button className=" mt-[100px] group-hover:my-rotate-y-180 text-center ml-[540px] items-center 
                         bg-gradient my-8 font-poppins font-bold text-gradient text-[168px] 
                         - delay-100 duration-500 rounded-full"> 
@@ -469,7 +469,7 @@ export default function UserPageDesigns() {
 
 
                <div>
-                  <div className="xl:ml-[500px] mt-[950px] mb-[300px] w-[1200px] group">
+                  <div className="xl:ml-[250px] mt-[950px] mb-[300px] w-[1200px] group">
                   <button className=" mt-[100px] group-hover:my-rotate-y-180 text-center ml-[540px] items-center 
                         bg-gradient my-8 font-poppins font-bold text-gradient text-[168px] 
                         - delay-100 duration-500 rounded-full"> 
