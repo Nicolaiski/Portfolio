@@ -48,6 +48,7 @@ import E from "./DESIGN/E.jpg";
 // import LostInThoughts from "LOST_IN_THOUGHTS.jpg";
 import Polpo from "./DESIGN/POLPO.mp4";
 import Sign from "./DESIGN/SIGN.jpg";
+import BlackLotus from "./DESIGN/BlackLotus.png";
 
 
 
@@ -105,6 +106,7 @@ export {
   E,
   // LostInThoughts,
   Polpo,
-  Sign
+  Sign,
+  BlackLotus,
 
 };
