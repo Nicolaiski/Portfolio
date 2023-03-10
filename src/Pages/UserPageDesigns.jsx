@@ -434,13 +434,13 @@ export default function UserPageDesigns() {
 
                 <div className={layout.sectionInfo}>
             <h1 className={`${styles.heading} text-gradient font-normal  text-[68px] 
-            mt-[-100px] ml-[250px] mb-[250px] xl:mt-[500px]`} >Animations</h1>
+            mt-[-250px] ml-[250px] mb-[50px] xl:mt-[500px]`} >Animations</h1>
           </div>
 
 
 
                 <div>
-                  <div className=" xl:ml-[300px] mt-[550px] mb-[300px] w-[1200px] group">
+                  <div className=" xl:ml-[400px] mt-[550px] mb-[300px] w-[1200px] group">
                   <button className=" mt-[400px] group-hover:my-rotate-y-180 text-center ml-[390px] items-center 
                         bg-gradient my-8 font-poppins text-gradient text-[128px] font-bold
                         - delay-100 duration-500 rounded-full"> 
@@ -457,7 +457,7 @@ export default function UserPageDesigns() {
 
                 
                 <div>
-                  <div className="xl:ml-[300px] mt-[950px] mb-[300px] w-[1200px] group">
+                  <div className="xl:ml-[400px] mt-[950px] mb-[300px] w-[1200px] group">
                   <button className=" mt-[100px] group-hover:my-rotate-y-180 text-center ml-[540px] items-center 
                         bg-gradient my-8 font-poppins font-bold text-gradient text-[168px] 
                         - delay-100 duration-500 rounded-full"> 
@@ -474,7 +474,7 @@ export default function UserPageDesigns() {
 
 
                <div>
-                  <div className="xl:ml-[300px] mt-[950px] mb-[300px] w-[1200px] group">
+                  <div className="xl:ml-[400px] mt-[950px] mb-[300px] w-[1200px] group">
                   <button className=" mt-[100px] group-hover:my-rotate-y-180 text-center ml-[540px] items-center 
                         bg-gradient my-8 font-poppins font-bold text-gradient text-[168px] 
                         - delay-100 duration-500 rounded-full"> 
