@@ -17,7 +17,7 @@ import Sign from "../assets/DESIGN/SIGN.jpg";
 import BlackLotus from "../assets/DESIGN/BlackLotus.png";
 import StickyFingers from "../assets/DESIGN/StickyFingers.jpg";
 import Resko1 from "../assets/DESIGN/Resko1.jpg";
-import Resko2 from "../assets/DESIGN/Resko2.PNG";
+//import Resko2 from "../assets/DESIGN/Resko2.PNG";
 import Resko3 from "../assets/DESIGN/Resko3.jpg";
 
 
@@ -396,7 +396,7 @@ export default function UserPageDesigns() {
           </div>
 
 
-                <section class="  mt-[10px] ml-[500px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1600px] ">
+                {/* <section class="  mt-[10px] ml-[500px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1600px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1200px] ">
                     
@@ -426,7 +426,7 @@ export default function UserPageDesigns() {
                  
                   </div >
                 </div>
-                </section>
+                </section> */}
                 
 
 
