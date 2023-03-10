@@ -19,6 +19,9 @@ const Footers= () => (
          <p className="flex-col text-white">
           <Link to = "https://soundcloud.com/user-489325442">SoundCloud</Link>
          </p>
+         <p className="flex-col text-white">
+          <Link to = "https://github.com/Nicolaiski">GitHub</Link>
+         </p>
     </div>
 
 
