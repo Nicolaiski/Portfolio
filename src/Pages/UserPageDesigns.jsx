@@ -127,7 +127,7 @@ export default function UserPageDesigns() {
 
 
 
-                <section class="  mt-[100px] ml-[2O0px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
+                <section class="  mt-[100px] ml-[200px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1200px] ">
                     
@@ -435,7 +435,7 @@ export default function UserPageDesigns() {
 
                 <div className={layout.sectionInfo}>
             <h1 className={`${styles.heading} text-gradient font-normal  text-[68px] 
-            mt-[-250px] ml-[150px] mb-[50px] xl:mt-[500px]`} >Animations</h1>
+            mt-[-250px] ml-[200px] mb-[50px] xl:mt-[500px]`} >Animations</h1>
           </div>
 
 
