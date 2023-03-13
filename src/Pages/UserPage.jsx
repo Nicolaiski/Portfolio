@@ -24,6 +24,7 @@ import VideoPlayer from "../Components/VideoPlayer";
 import VideoPlayer2 from "../Components/VideoPlayer2";
 import VideoPlayer4 from "../Components/VideoPlayer4";
 
+import ButtonToSongs from "../Components/ButtonToSongs";
 
 
 
@@ -68,6 +69,7 @@ export default function UserPageDesigns() {
                         </p>
                     <VideoPlayer4 />
                     <p className=" mt-[50px] text-center text-[38px] font-normal font-poppins text-gradient"> Song Available on the Music Player </p>
+                  <ButtonToSongs styles=" mb-[0px] rounded-full ml-[550px]"/>
                   </div>
 
                     

@@ -23,7 +23,7 @@ import VideoPlayer2 from './VideoPlayer2';
 import Play from './Play';
 // import NavBar from '../Pages/HomePage';
 import UserPageDesigns from '../Pages/UserPage';
-
+import ButtonToSongs from "./ButtonToSongs";
 
 export {
 Navbar,
@@ -49,6 +49,7 @@ VideoPlayer,
 VideoPlayer2,
 Play,
 UserPageDesigns,
+ButtonToSongs,
 
 
 }
