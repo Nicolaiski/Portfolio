@@ -5,14 +5,14 @@ import styles, { layout } from "../CONSTANT/style";
 
 
 
-import A from "../assets/DESIGN/A.mp4";
+// import A from "../assets/DESIGN/A.mp4";
 import Alphabet from "../assets/DESIGN/ALPHABET.jpg";
 import BrainDead1 from "../assets/DESIGN/BrainDead1.jpg";
 import BrainDead2 from "../assets/DESIGN/BrainDead2.jpg";
 import BrainDead3 from "../assets/DESIGN/BrainDead3.jpg";
 import E from "../assets/DESIGN/E.jpg";
 import LostInThoughts from "../assets/DESIGN/LOST_IN_THOUGHTS.jpg";
-import Polpo from "../assets/DESIGN/POLPO.mp4";
+// import Polpo from "../assets/DESIGN/POLPO.mp4";
 import Sign from "../assets/DESIGN/SIGN.jpg";
 import BlackLotus from "../assets/DESIGN/BlackLotus.png";
 import StickyFingers from "../assets/DESIGN/StickyFingers.jpg";
@@ -489,9 +489,17 @@ export default function UserPageDesigns() {
                     
                </div>
 
+               
+
+
+
+
+
                 
                   
            
+              
+
               
                   
                 </div>
