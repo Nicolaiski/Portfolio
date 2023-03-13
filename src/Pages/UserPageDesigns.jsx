@@ -377,13 +377,13 @@ export default function UserPageDesigns() {
                       justify-center h-full">
                           <button className=" bg-transparent -bottom-20 delay-500 duration-1000 scale-0 
                           group-hover:scale-100 group-hover:bottom-20 
-                          text-[84px] text-gradient font-poppins font-bold">"Black Lotus"</button>
+                          text-[84px] text-gradient font-poppins font-bold">"Sticky Fingerz"</button>
                           <button className=" -bottom-20 group-hover:bottom-20 scale-0 group-hover:scale-100
                           delay-1000 duration-1000
                           font-poppins font-normal text-[48px] text-gradient"> 
-                          Digital Design <br/> Visual Identity for a Music Label
+                          Digital Design <br/> Cover for one of my songs
                           <br/>
-                          Made On Procreate <br/> 2022 </button>
+                          Made On Procreate <br/> 2023 </button>
                         
                       </div>
                     
