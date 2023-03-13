@@ -5,14 +5,14 @@ import styles, { layout } from "../CONSTANT/style";
 
 
 
-import A from "../assets/DESIGN/A.mp4";
+// import A from "../assets/DESIGN/A.mp4";
 import Alphabet from "../assets/DESIGN/ALPHABET.jpg";
 import BrainDead1 from "../assets/DESIGN/BrainDead1.jpg";
 import BrainDead2 from "../assets/DESIGN/BrainDead2.jpg";
 import BrainDead3 from "../assets/DESIGN/BrainDead3.jpg";
 import E from "../assets/DESIGN/E.jpg";
 import LostInThoughts from "../assets/DESIGN/LOST_IN_THOUGHTS.jpg";
-import Polpo from "../assets/DESIGN/POLPO.mp4";
+// import Polpo from "../assets/DESIGN/POLPO.mp4";
 import Sign from "../assets/DESIGN/SIGN.jpg";
 import BlackLotus from "../assets/DESIGN/BlackLotus.png";
 import ArduinoSketch from "../assets/Arduino/ArduinoSketch.png";
@@ -23,6 +23,12 @@ import ArduinoSketch2 from "../assets/Arduino/ArduinoSketch2.jpg";
 import VideoPlayer from "../Components/VideoPlayer";
 import VideoPlayer2 from "../Components/VideoPlayer2";
 import VideoPlayer4 from "../Components/VideoPlayer4";
+
+
+
+
+
+
 
 
 
@@ -51,21 +57,21 @@ export default function UserPageDesigns() {
 
 
 
-               {/* <div>
-                  <div className="xl:ml-[500px] mt-[950px] mb-[300px] w-[1200px] group">
+               <div>
+                  <div className="xl:ml-[250px] mt-[250px] mb-[300px] w-[1200px] group">
                   <button className=" mt-[100px] group-hover:my-rotate-y-180 text-center ml-[540px] items-center 
                         bg-gradient my-8 font-poppins font-bold text-gradient text-[168px] 
                         - delay-100 duration-500 rounded-full"> 
-                      A </button>
-                        <p className=" mt-[-50px] mb-[50px] text-[48px] font-poppins font-bold text-gradient text-center ">
-                            Digital Animation <br/> Made on Procreate <br/> 2023
+                      </button>
+                        <p className=" mt-[-50px] mb-[0px] text-[48px] font-poppins font-bold text-gradient text-center ">
+                            Midi Controller Jamming <br/>  2023 <br/><br/>
                         </p>
                     <VideoPlayer4 />
-                   
+                    <p className=" mt-[50px] text-center text-[38px] font-normal font-poppins text-gradient"> Song Available on the Music Player </p>
                   </div>
 
                     
-               </div> */}
+               </div>
 
 
                <section class="  mt-[300px] ml-[250px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
@@ -124,11 +130,11 @@ export default function UserPageDesigns() {
                       justify-center h-full">
                           <button className=" bg-transparent -bottom-20 delay-500 duration-1000 scale-0 
                           group-hover:scale-100 group-hover:bottom-20 
-                          text-[84px] text-gradient font-poppins font-bold">"E"</button>
+                          text-[84px] text-gradient font-poppins font-bold">"Final Sketch of the Controller "</button>
                           <button className=" -bottom-20 group-hover:bottom-20 scale-0 group-hover:scale-100
                           delay-1000 duration-1000
                           font-poppins font-normal text-[48px] text-gradient"> 
-                          Typography Work <br/> Made On Procreate <br/> 2022 </button>
+                         <br/> Powered by Arduino Micro <br/> 2023 </button>
                         
                       </div>
                     
