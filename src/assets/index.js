@@ -39,14 +39,14 @@ import shuffleAll from "./icons/shuffle_all.png";
 import shuffleNone from "./icons/shuffle_none.png";
 
 
-import A from "./DESIGN/A.mp4";
+// import A from "./DESIGN/A.mp4";
 import Alphabet from "./DESIGN/ALPHABET.jpg";
 import BrainDead1 from "./DESIGN/BrainDead1.jpg";
 import BrainDead2 from "./DESIGN/BrainDead2.jpg";
 import BrainDead3 from "./DESIGN/BrainDead3.jpg";
 import E from "./DESIGN/E.jpg";
 // import LostInThoughts from "LOST_IN_THOUGHTS.jpg";
-import Polpo from "./DESIGN/POLPO.mp4";
+// import Polpo from "./DESIGN/POLPO.mp4";
 import Sign from "./DESIGN/SIGN.jpg";
 import BlackLotus from "./DESIGN/BlackLotus.png";
 
@@ -98,14 +98,14 @@ export {
   shuffleAll,
   shuffleNone,
   // arduinosketch,
-  A,
+  // A,
   Alphabet,
   BrainDead1,
   BrainDead2,
   BrainDead3,
   E,
   // LostInThoughts,
-  Polpo,
+  // Polpo,
   Sign,
   BlackLotus,
 
