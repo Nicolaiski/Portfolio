@@ -36,6 +36,8 @@ import SF from "../assets/Songs/STICKY_FINGERS .wav";
 import SCUQ from "../assets/Songs/7514.wav";
 import H from "../assets/Songs/HILL.mp3";
 import LIT from "../assets/Songs/LOST_IN_THOUGHTS.mp3";
+import Arduino1 from "../assets/Songs/Arduino1.mp3";
+import Arduino2 from "../assets/Songs/Arduino2.mp3";
 
 
 
@@ -75,6 +77,19 @@ const tracks = [
   {
     url: waild,
     title: "Why Am I Like Dis - Jeune Premier",
+    tags: ["liquid dnb"],
+  },
+
+  {
+    url: Arduino1,
+    title: "Arduino 1 - Jeune Premier",
+    tags: ["liquid dnb"],
+  },
+
+
+  {
+    url: Arduino2,
+    title: "Arduino 2 - Jeune Premier",
     tags: ["liquid dnb"],
   },
 
@@ -343,3 +358,11 @@ const Music = () => {
 };
 
 export default Music;
+
+
+
+
+
+
+
+
