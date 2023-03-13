@@ -74,7 +74,7 @@ export default function UserPageDesigns() {
                </div>
 
 
-               <section class="  mt-[300px] ml-[250px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
+               <section class="  mt-[300px] ml-[200px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1200px] ">
                     
@@ -114,7 +114,7 @@ export default function UserPageDesigns() {
 
 
 
-                <section class="  mt-[500px] ml-[250px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
+                <section class="  mt-[500px] ml-[200px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1200px] ">
                     
@@ -146,7 +146,7 @@ export default function UserPageDesigns() {
 
 
 
-                <section class="  mt-[500px]  mb-[500px] ml-[250px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1600px] ">
+                <section class="  mt-[500px]  mb-[500px] ml-[200px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1600px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1800px] ">
                     
@@ -181,7 +181,7 @@ export default function UserPageDesigns() {
 
 
 
-                <section class="  mt-[500px] ml-[250px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
+                <section class="  mt-[500px] ml-[200px] bg-black-gradient bg-opacity-20 rounded-[20px] w-[1400px] h-[1400px] ">
                 <div className="  bg-transparent cursor-pointer group perspective  hover:opacity-100 xl:ml-[100px] ">
                   <div className="relative preserve-3d group-hover:my-rotate-y-180 duration-1000  xl:ml-[0px] w-[1200px] h-[1400px] ">
                     
